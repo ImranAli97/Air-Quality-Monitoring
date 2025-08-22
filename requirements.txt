@@ -1,9 +1,0 @@
-requests
-matplotlib
-numpy
-dht11
-RPi.GPIO
-thingspeak
-Adafruit-LED-Backpack
-luma.core
-luma.led_matrix
